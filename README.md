@@ -1,1 +1,3 @@
-# Digital-Hospital-Management-System
+# Digital Hospital Management System
+
+This is a full Laravel project...
